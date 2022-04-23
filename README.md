@@ -1,2 +1,2 @@
-# DcKuino
-Script for Rubber Ducky and Arduino pro micro
+# Duckino
+SCRIPT FOR RUBBER DUCKY AND ARDUINO PRO MICRO 
